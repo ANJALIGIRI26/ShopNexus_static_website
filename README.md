@@ -1,0 +1,1 @@
+# ShopNexus_static_website
